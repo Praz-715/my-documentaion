@@ -1,0 +1,22 @@
+{
+    "name":"Om Guh Documentation",
+    "description":"Documentation for Om Guh",
+    "blog":[
+        {
+            "title":"Instalasi Oracle 19c on RHEL 8",
+            "date":"2022-01-01",
+            "content":"Instalasi Oracle 19c on RHEL 8",
+            "tags":["Oracle", "RHEL 8"],
+            "author":"Om Guh",
+            "category":"oracle"
+        },
+        {
+            "title":"Instalasi MINIO on RHEL 8",
+            "date":"2022-01-01",
+            "content":"Instalasi MINIO",
+            "tags":["MINIO", "RHEL 8"],
+            "author":"Om Guh",
+            "category":"application"
+        }
+    ]
+}
